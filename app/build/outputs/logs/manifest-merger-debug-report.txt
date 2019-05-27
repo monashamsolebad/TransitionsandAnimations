@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+MERGED from [com.android.support:design:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/a17e453623e8ac660ea4c26fb4086eee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/3b921b3037b307057d7d240414a482e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/fb5d98055cfa880b7ef166dc7aa6dd7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/f3c0083ba986c87cabf2de9657034def/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/b78b50846b76ec8027da189efd1549bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/ebb4cb40c2214189a54d4b72a5fbfcdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/031e967e938df7be701432843bb95d83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/b0830f867bb00211141ba576b2ba5c04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/040b55f8b785e734a1de0b19cb0d73aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/68b9f4118d35d0a94de1628ada9f6308/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/c8c06ffdfe05b18f8ca995a7c9e54f2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/1190dd91aca33f831a6d9e35fa49ef9a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/455c9a774e7e92824046a4a7ef9442a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/cbfe1ba1019fcc9cf5c94da558e64a73/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/afde2295fc7d4cf79ba50492234df989/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/abdfae2252e1334e925c0a71c23c4096/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+	package
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:18:5-59
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:1-36:12
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:20:5-34:19
+	android:supportsRtl
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.transitionsandanimations.MainActivity
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.example.android.transitionsandanimations.SecondActivity
+ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml:33:19-49
+uses-sdk
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/a17e453623e8ac660ea4c26fb4086eee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/a17e453623e8ac660ea4c26fb4086eee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/3b921b3037b307057d7d240414a482e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/3b921b3037b307057d7d240414a482e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/fb5d98055cfa880b7ef166dc7aa6dd7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/fb5d98055cfa880b7ef166dc7aa6dd7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/f3c0083ba986c87cabf2de9657034def/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/f3c0083ba986c87cabf2de9657034def/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/b78b50846b76ec8027da189efd1549bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/b78b50846b76ec8027da189efd1549bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/ebb4cb40c2214189a54d4b72a5fbfcdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/ebb4cb40c2214189a54d4b72a5fbfcdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/031e967e938df7be701432843bb95d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/031e967e938df7be701432843bb95d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/b0830f867bb00211141ba576b2ba5c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/b0830f867bb00211141ba576b2ba5c04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/040b55f8b785e734a1de0b19cb0d73aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/040b55f8b785e734a1de0b19cb0d73aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/68b9f4118d35d0a94de1628ada9f6308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/68b9f4118d35d0a94de1628ada9f6308/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/c8c06ffdfe05b18f8ca995a7c9e54f2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/c8c06ffdfe05b18f8ca995a7c9e54f2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/1190dd91aca33f831a6d9e35fa49ef9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/1190dd91aca33f831a6d9e35fa49ef9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/455c9a774e7e92824046a4a7ef9442a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/455c9a774e7e92824046a4a7ef9442a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/cbfe1ba1019fcc9cf5c94da558e64a73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/cbfe1ba1019fcc9cf5c94da558e64a73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/afde2295fc7d4cf79ba50492234df989/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/afde2295fc7d4cf79ba50492234df989/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/abdfae2252e1334e925c0a71c23c4096/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/monashamsolebad/.gradle/caches/transforms-2/files-2.1/abdfae2252e1334e925c0a71c23c4096/AndroidManifest.xml:20:5-44
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		ADDED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon May 27 15:56:04 PDT 2019
+base.0=/Users/monashamsolebad/AndroidStudioProjects/TransitionsandAnimations/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
